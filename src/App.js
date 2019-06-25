@@ -1,7 +1,7 @@
 import React from 'react';
 
 //import of routes of page
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 
 //components of Index view
 import Header from "./components/header";
