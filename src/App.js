@@ -1,11 +1,17 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Nav from './components/nav';
 
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function Index() {
-  return <h2>Home</h2>;
+  return (
+    <div>
+      <Nav />
+      <h2>Home</h2>
+    </div>
+  );
 }
 
 function About() {
