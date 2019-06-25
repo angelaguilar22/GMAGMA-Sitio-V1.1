@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Nav from './components/nav';
 import Main from './components/main';
@@ -9,7 +8,7 @@ import ClientsPage from './components/Pages/ClientsPage';
 import Identity from './components/Identify';
 import TopSection from './components/others/TopSection';
 
-import { HashRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function Index() {
   return (
