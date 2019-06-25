@@ -1,7 +1,7 @@
 import React from 'react';
 
 //import of routes of page
-import { HashRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 //components of Index view
 import Header from "./components/header";
@@ -88,13 +88,6 @@ function App() {
     <Router>
       <div>
         <Route path="/" exact component={Index} />
-        <Route path="/about" component={About} />
-        <Route path="/line" component={LineTopRender}/>
-        <Route path="/vision" component={Vision}/>
-        <Route path="/we" component={WeSections}/>
-        <Route path="/valores" component={Values}/>
-        <Route path="/valor" component={Value}/>
-        <Route path="/clientes" component={Clients}/>
       </div>
     </Router>
   );
