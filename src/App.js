@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Nav from './components/nav';
 
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 
 function Index() {
   return (
