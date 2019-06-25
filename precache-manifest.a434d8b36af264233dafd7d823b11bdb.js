@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32f8b58ae89cf8877cc0a502b8df1fb2",
+    "revision": "0368639c95e18807a6e3f14cff56abf0",
     "url": "/GMAGMA-Sitio-V1.1/index.html"
   },
   {
-    "revision": "31ae13b2aa70cd3c7a7c",
+    "revision": "8d5f0706e56b56bb49d6",
     "url": "/GMAGMA-Sitio-V1.1/static/css/main.444bfaa4.chunk.css"
   },
   {
-    "revision": "4c0f4736dbb67459a3c7",
-    "url": "/GMAGMA-Sitio-V1.1/static/js/2.3ad40f42.chunk.js"
+    "revision": "56040dddfa2a1defa958",
+    "url": "/GMAGMA-Sitio-V1.1/static/js/2.ca3f22d4.chunk.js"
   },
   {
-    "revision": "31ae13b2aa70cd3c7a7c",
-    "url": "/GMAGMA-Sitio-V1.1/static/js/main.09c10f04.chunk.js"
+    "revision": "8d5f0706e56b56bb49d6",
+    "url": "/GMAGMA-Sitio-V1.1/static/js/main.ca9c9c14.chunk.js"
   },
   {
     "revision": "cdd85c992735cfde2b64",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db16fe038354cbbcccb7f3d5eb89e0ca",
     "url": "/GMAGMA-Sitio-V1.1/static/media/idea.db16fe03.png"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/GMAGMA-Sitio-V1.1/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "86c716fc120ce2a6dc32a04b5ad486aa",
