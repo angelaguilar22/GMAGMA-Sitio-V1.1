@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GMAGMA-Sitio-V1.1/precache-manifest.20f07bf44c49bbba9833a0b52bf51ec6.js"
+  "/GMAGMA-Sitio-V1.1/precache-manifest.5947d1f7bf334b9c98a228ad26950718.js"
 );
 
 self.addEventListener('message', (event) => {
