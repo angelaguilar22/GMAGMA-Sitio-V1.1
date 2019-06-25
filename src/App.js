@@ -9,7 +9,7 @@ import ClientsPage from './components/Pages/ClientsPage';
 import Identity from './components/Identify';
 import TopSection from './components/others/TopSection';
 
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 
 function Index() {
   return (
