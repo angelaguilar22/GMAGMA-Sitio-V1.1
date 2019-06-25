@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64848c31f9fc35b960e5145771ea7677",
+    "revision": "7c46fee012a59f17a20ced6543847fc9",
     "url": "/GMAGMA-Sitio-V1.1/index.html"
   },
   {
-    "revision": "44bee53ea652320f517e",
+    "revision": "ed39d8908821b2b377b3",
     "url": "/GMAGMA-Sitio-V1.1/static/css/main.6f9268ed.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GMAGMA-Sitio-V1.1/static/js/2.79782518.chunk.js"
   },
   {
-    "revision": "44bee53ea652320f517e",
-    "url": "/GMAGMA-Sitio-V1.1/static/js/main.0db31632.chunk.js"
+    "revision": "ed39d8908821b2b377b3",
+    "url": "/GMAGMA-Sitio-V1.1/static/js/main.9c102564.chunk.js"
   },
   {
     "revision": "cdd85c992735cfde2b64",
