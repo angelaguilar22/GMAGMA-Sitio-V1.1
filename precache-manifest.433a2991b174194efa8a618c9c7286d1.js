@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cef3dcf56ec6cef23560a98ccf6cd7d8",
+    "revision": "91c52427fa014577653181c660e7bd97",
     "url": "/GMAGMA-Sitio-V1.1/index.html"
   },
   {
-    "revision": "284cafb35aba146eaa2c",
+    "revision": "c4bdbd61f1abd2655f54",
     "url": "/GMAGMA-Sitio-V1.1/static/css/main.6f9268ed.chunk.css"
   },
   {
-    "revision": "239e0ea49278aa8ae510",
-    "url": "/GMAGMA-Sitio-V1.1/static/js/2.7aee348b.chunk.js"
+    "revision": "08afacfe9514e1dba53a",
+    "url": "/GMAGMA-Sitio-V1.1/static/js/2.bf04cd47.chunk.js"
   },
   {
-    "revision": "284cafb35aba146eaa2c",
-    "url": "/GMAGMA-Sitio-V1.1/static/js/main.6344b114.chunk.js"
+    "revision": "c4bdbd61f1abd2655f54",
+    "url": "/GMAGMA-Sitio-V1.1/static/js/main.58a4326b.chunk.js"
   },
   {
     "revision": "cdd85c992735cfde2b64",
@@ -32,6 +32,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GMAGMA-Sitio-V1.1/static/media/electricidad0.b48db07e.jpg"
   },
   {
+    "revision": "ece6565630590c401898e3a5f8160774",
+    "url": "/GMAGMA-Sitio-V1.1/static/media/eye.ece65656.png"
+  },
+  {
+    "revision": "db16fe038354cbbcccb7f3d5eb89e0ca",
+    "url": "/GMAGMA-Sitio-V1.1/static/media/idea.db16fe03.png"
+  },
+  {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/GMAGMA-Sitio-V1.1/static/media/logo.5d5d9eef.svg"
   },
@@ -48,11 +56,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GMAGMA-Sitio-V1.1/static/media/paileria0.e9ea5a14.jpg"
   },
   {
+    "revision": "ef2e073500ba43739fabd567d120acbe",
+    "url": "/GMAGMA-Sitio-V1.1/static/media/peace.ef2e0735.png"
+  },
+  {
+    "revision": "d406d14ea961846f76420ed9e5df4b94",
+    "url": "/GMAGMA-Sitio-V1.1/static/media/support.d406d14e.png"
+  },
+  {
     "revision": "1f14dc570a5d148b2c7f75c05aa83b98",
     "url": "/GMAGMA-Sitio-V1.1/static/media/taduuda-72915-unsplash.1f14dc57.jpg"
   },
   {
     "revision": "2c68aa3d1d6498c1985db32ee679cc8f",
     "url": "/GMAGMA-Sitio-V1.1/static/media/taladro.2c68aa3d.png"
+  },
+  {
+    "revision": "e0d0ee3e4f55c6c6756c364c80dcf83d",
+    "url": "/GMAGMA-Sitio-V1.1/static/media/target.e0d0ee3e.png"
+  },
+  {
+    "revision": "22e4be6fd1e4ca9ca976e9e33040ec4d",
+    "url": "/GMAGMA-Sitio-V1.1/static/media/teamwork.22e4be6f.png"
   }
 ]);
