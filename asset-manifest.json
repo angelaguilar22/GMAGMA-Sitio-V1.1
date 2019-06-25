@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GMAGMA-Sitio-V1.1/static/css/main.2cce8147.chunk.css",
+    "main.css": "/GMAGMA-Sitio-V1.1/static/css/main.6f9268ed.chunk.css",
     "main.js": "/GMAGMA-Sitio-V1.1/static/js/main.6344b114.chunk.js",
     "main.js.map": "/GMAGMA-Sitio-V1.1/static/js/main.6344b114.chunk.js.map",
     "runtime~main.js": "/GMAGMA-Sitio-V1.1/static/js/runtime~main.99d69f3a.js",
@@ -8,9 +8,10 @@
     "static/js/2.7aee348b.chunk.js": "/GMAGMA-Sitio-V1.1/static/js/2.7aee348b.chunk.js",
     "static/js/2.7aee348b.chunk.js.map": "/GMAGMA-Sitio-V1.1/static/js/2.7aee348b.chunk.js.map",
     "index.html": "/GMAGMA-Sitio-V1.1/index.html",
-    "precache-manifest.5947d1f7bf334b9c98a228ad26950718.js": "/GMAGMA-Sitio-V1.1/precache-manifest.5947d1f7bf334b9c98a228ad26950718.js",
+    "precache-manifest.145ee3c610ca399c651fae009f823c7f.js": "/GMAGMA-Sitio-V1.1/precache-manifest.145ee3c610ca399c651fae009f823c7f.js",
     "service-worker.js": "/GMAGMA-Sitio-V1.1/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/GMAGMA-Sitio-V1.1/static/css/main.2cce8147.chunk.css.map",
+    "static/css/main.6f9268ed.chunk.css.map": "/GMAGMA-Sitio-V1.1/static/css/main.6f9268ed.chunk.css.map",
+    "static/media/index.css": "/GMAGMA-Sitio-V1.1/static/media/taladro.2c68aa3d.png",
     "static/media/logo.svg": "/GMAGMA-Sitio-V1.1/static/media/logo.5d5d9eef.svg",
     "static/media/logo1.jpg": "/GMAGMA-Sitio-V1.1/static/media/logo1.86c716fc.jpg"
   }
